@@ -1,0 +1,23 @@
+# Compiled files
+build/
+*.class
+*.jar
+
+# Gradle
+.gradle/
+gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Minecraft run files
+run/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Fabric
+remappedSrc/

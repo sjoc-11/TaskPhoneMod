@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "BGb",
+    "SSS"
+  ],
+  "key": {
+    "G": "minecraft:glass",
+    "B": "minecraft:stone_button",
+    "b": "minecraft:stone_button",
+    "S": "minecraft:stone"
+  },
+  "result": {
+    "id": "taskphone:task_phone",
+    "count": 1
+  }
+}
