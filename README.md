@@ -28,7 +28,11 @@ It works exactly how you'd expect a checklist to work. You write it, you see it,
 
 <img width="830" height="433" alt="image" src="https://github.com/user-attachments/assets/b772147e-eb4b-4887-b121-88ed82eb3766" />
 
-Glass for the screen. Stone buttons on the sides. Stone for the body. Simple materials, early game accessible.
+Glass for the screen.
+Stone buttons on the sides.
+Stone for the body.
+
+Simple materials, early game accessible.
 
 ## How to Use
 
